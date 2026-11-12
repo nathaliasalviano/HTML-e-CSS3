@@ -4,10 +4,6 @@
 
 <h1 align="center">Olá, eu sou a Nathalia! 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathaliasalviano&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
 
 ---
 
@@ -30,13 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<a href="https://nathaliasalviano.github.io/HTML-e-CSS3/desafio_010/android.html">Veja aqui meu projeto de HTML e CSS! </a>
+Veja aqui meu projeto <a href="https://nathaliasalviano.github.io/projeto-android/"> Android </a> e o projeto <a href="https://nathaliasalviano.github.io/Projeto-Cordel/"> Cordel </a> de HTML e CSS! 
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nathaliasalviano&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasalviano&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
